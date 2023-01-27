@@ -1,0 +1,4 @@
+Najkrotsza mozliwa odleglosc: 76
+Kolejnosc odwiedzanych miast: A, C, B, F, D, E, A, 
+
+Przyjemnej podrozy!
